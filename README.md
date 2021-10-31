@@ -2,7 +2,7 @@
 
 In this project, I created an interface that retrieves data from Cassandra database in real-time and added it into the table.
 
-I made the front-end and the back-end on python using plolty dash and other libraries.
+I've made the front-end and the back-end on python using plolty dash and other libraries.
 
 I've made a lot of efforts to have a good performance in case we have massive data.
 
